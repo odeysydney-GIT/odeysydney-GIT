@@ -3,7 +3,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>GOOGLE CLOUD SALES CREDENTIALS CERTIFICATE</b>
-  - [GCP Sales Authentication Demo]()
+  - [GCP Sales Authentication Demo](https://github.com/odeysydney-GIT/Google-Cloud-Sales-Credential)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
